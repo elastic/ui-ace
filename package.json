@@ -1,5 +1,5 @@
 {
-  "name": "@spalger/ui-ace",
+  "name": "@elastic/ui-ace",
   "version": "0.2.3",
   "description": "This directive allows you to add ACE editor elements.",
   "main": "ui-ace.js",
